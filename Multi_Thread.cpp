@@ -4,6 +4,7 @@ using namespace std;
 //edit by git
 //<<<<<<< HEAD
 //creat conflict on local
+//add at 7 line
 void threadFunc()
 {
 	//cout << "Welcome to Multithreading 1" << endl;
