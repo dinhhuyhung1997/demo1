@@ -2,7 +2,7 @@
 #include <thread>
 using namespace std;
 //edit by git
-//<<<<<<< HEAD
+//<<<<<<< 
 //creat conflict on local
 //add at 7 line
 void threadFunc()
