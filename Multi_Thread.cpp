@@ -1,7 +1,7 @@
 #include <iostream>
 #include <thread>
 using namespace std;
-
+//edit by git
 void threadFunc()
 {
 	//cout << "Welcome to Multithreading 1" << endl;
