@@ -2,6 +2,7 @@
 #include <thread>
 using namespace std;
 //edit by git
+//<<<<<<< HEAD
 //creat conflict on local
 void threadFunc()
 {
