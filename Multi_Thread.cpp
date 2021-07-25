@@ -7,14 +7,14 @@ using namespace std;
 //add at 7 line
 void threadFunc()
 {
-	//cout << "Welcome to Multithreading 1" << endl;
-	//cout << "Welcome to Multithreading 2" << endl;
 	//cout << "Welcome to Multithreading 3" << endl;
 	cout << "Multithreading 1" << endl;
 	cout << "Multithreading 2" << endl;
 	cout << "Multithreading 3" << endl;
 }
 
+//add a comment line
+//add a comment line
 int main()
 {
 	//create 3 different threads
@@ -32,7 +32,12 @@ int main()
 		t1.join();
 		cout << "Thread with id " << id1 << " is terminated" << endl;
 	}
-
+//add a comment line
+//add a comment line
+//add a comment line
+//add a comment line
+//add a comment line
+//add a comment line
 	if (t2.joinable())
 	{
 		t2.join();
