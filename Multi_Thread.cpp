@@ -2,6 +2,7 @@
 #include <thread>
 using namespace std;
 //edit by git
+//creat conflict on local
 void threadFunc()
 {
 	//cout << "Welcome to Multithreading 1" << endl;
